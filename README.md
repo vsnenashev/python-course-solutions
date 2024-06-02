@@ -1,4 +1,4 @@
-# python-course-solutions
+# python-courses-solutions
 🐍 This repository contains my solutions to problems from the Basic and Advanced Python courses.
 
 Solutions are organized into two main directories:
