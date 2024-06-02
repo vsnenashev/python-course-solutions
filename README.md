@@ -1,5 +1,5 @@
 # python-course-solutions
-This repository contains my solutions to problems from the Basic and Advanced Python courses.
+🐍 This repository contains my solutions to problems from the Basic and Advanced Python courses.
 
 My solutions are organized into two main directories:
 - `essentials_course`: Features solutions from the foundational Python course, focusing on core concepts.
